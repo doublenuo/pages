@@ -1,0 +1,11 @@
+@media screen and (max-width:768px) {
+
+    .title {
+        font-size: 18px;
+    }
+
+    .logo {
+        width: 90px;
+    }
+
+}
